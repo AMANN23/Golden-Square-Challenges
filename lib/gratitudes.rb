@@ -4,7 +4,7 @@ class Gratitudes
     end
 
     def add(gratitudes)
-        @gratitudes.push(gratitude)
+        @gratitudes.push(gratitudes)
     end
 
     def format
